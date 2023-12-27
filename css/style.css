@@ -268,16 +268,13 @@ p {
 
 }
 
-.education h1 {
-  margin: 3%;
-}
-
 .education span {
   color: #4473ff;
 }
 
 .education-column {
   padding: 0 100px 50px 100px;
+  margin-bottom: 200px;
 }
 
 .education-column .education-box {
